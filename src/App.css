@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.boxx {
+  margin-top: 250px;
+  background-color: rgb(126, 233, 183);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.bouton {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: green;
+}
